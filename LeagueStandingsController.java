@@ -62,7 +62,10 @@ private LeagueStandingsService leagueStandingsService;
 		
 		return ResponseEntity.noContent().build();
 	}
+
+	
 	@GetMapping("/external")
+	//getting the api from the service class.. connecting them.
 	public ResponseEntity<String> getExternalData() {
 	    String externalData = leagueStandingsService.fetchFromExternalApi();
 	    return ResponseEntity.ok(externalData);
