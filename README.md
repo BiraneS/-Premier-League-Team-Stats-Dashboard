@@ -153,10 +153,10 @@ Create a Pull Request
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 Developer
-Project Developer: [Your Name]
-LinkedIn: [Your LinkedIn Profile]
-GitHub: [Your GitHub Profile]
-Email: [Your Email]
+Project Developer: Birane Seck
+LinkedIn: https://www.linkedin.com/in/birane-seck/
+GitHub: https://github.com/BiraneS
+Email: biraneseck44@gmail.com
 Acknowledgments
 Premier League for data inspiration
 TheSportsDB for external API services
