@@ -111,7 +111,7 @@ public void deleteLeagueStandings(long id) {
 	// TODO Auto-generated method stub
 	leagueStandingsRepository.deleteById(id);
 }
-
+//this is where the big thing happens.. here im fetching the external api..
 //call external api to get league standings
 // Used https://api.msmc.cc/premier/ to find the base url
 //public List<LeagueStandings> fetchFromExternalApi()
